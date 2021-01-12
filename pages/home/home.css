@@ -2,7 +2,8 @@ ion-content {
   background: linear-gradient(to right, #ffafbd, #ffc3a0);
 }
 h2 {
-  color: #009fff;
+  color: #6136af;
+  text-align: center;
 }
 
 p {
